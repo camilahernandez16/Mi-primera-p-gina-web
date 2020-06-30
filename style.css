@@ -1,0 +1,48 @@
+h1 {
+    color:#054e48;
+}
+body {
+    background-color: rgb(170, 148, 120);
+  
+
+
+}
+ h2{
+     color: green;
+ }
+  
+ p{
+     font-size: 20px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+  
+ 
+.Imagensingles{
+    width: 350px;
+    height: 350px;
+    margin-right: 70px;
+}
+
+#Singles{
+    display: flex;
+    justify-content: center ;
+}
+  #video{
+     display: flex;
+     justify-content: center ;
+ }
+ footer{
+     display: flex;
+     justify-content: center;
+ }
+ #imagenprincipal{
+     width:70% ;
+     height:500px ;
+     display: flex ;
+     justify-content: center;
+ }
+
+ h4{
+     font-size: 20px;
+     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ }
